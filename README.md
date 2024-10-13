@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nabraj_Madai
-- 👀 I’m interested in Python Programming and Machine Learning
+- 👀 I’m interested in Web development, Python Programming and Machine Learning
 - 🌱 I’m currently studying Bsc.IT at ISMT college
 - 💞️ I’m always open to collaborate with different tech startups
 - 😄 Pronouns: he/him
